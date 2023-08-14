@@ -9,7 +9,7 @@ export default function Socials() {
   return connections.map((social, index) => {
     return (
       <a
-        className="bg-white bg-opacity-20 text-center text-white tracking-wide p-3 mx-auto sm:min-w-[90%] md:min-w-[50%] lg:max-w-[70%] rounded-md"
+        className="bg-white bg-opacity-20 text-center border-2 border-transparent text-white p-3 mx-auto sm:min-w-[90%] md:min-w-[50%] xl:max-w-[70%] rounded-md hover:border-2 hover:border-white hover:bg-opacity-30"
         key={index}
         href={social.link}>
         My {social.site}
