@@ -1,8 +1,8 @@
-# React + Vite
+# A quick link tree to easily share my socials
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was made rather in a rush for my business cards. I did enjoy it as a quick React project and will probably build upon it further.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Future features
+- [ ] logins
+- [ ] admin panel to easily add links
+- [ ] branded defaults (LinkedIn, Twitter/X, etc.)
